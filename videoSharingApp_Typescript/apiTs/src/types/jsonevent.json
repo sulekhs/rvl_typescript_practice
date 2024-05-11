@@ -1,0 +1,38 @@
+{
+    "eventTypes":[{
+        "ParticipantSubscribed": [{
+            "state":[
+                "enabled",
+                "disabled"
+            ],
+            "name":"Test Event ParticipantSubscribed",
+            "description":"description"
+        }],
+        "ParticipantUnsubscribed":[{
+            "state":[
+                "enabled",
+                "disabled"
+            ],
+            "name":"Test Event ParticipantUnsubscribed",
+            "description":"description"
+        }],
+        "ChatCompleted":[{
+            "state":[
+                "enabled",
+                "disabled"
+            ],
+            "name":"Test Event ChatCompleted",
+            "description":"description"
+        }],
+        "ChatEnded":[{
+            "state":[
+                "enabled",
+                "disabled"
+            ],
+            "name":"Test Event ChatEnded",
+            "description":"description"
+        }]
+    }]    
+}
+
+
